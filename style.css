@@ -1,0 +1,24 @@
+
+#a1{
+   
+    text-align: center;
+}
+#divradius{
+    border-radius: 50px ;
+    background-color: brown;
+}
+ul{
+   display: flex;
+   gap: 50px;
+   justify-content: right;
+   font-size: large;
+   list-style: none;
+}
+#a2{
+    direction: rtl;
+
+}
+#container{
+    display: flex;
+    gap: 15%;
+}
